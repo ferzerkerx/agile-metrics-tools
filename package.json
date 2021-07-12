@@ -27,7 +27,7 @@
     "node": ">=14.0.0 < 15"
   },
   "devDependencies": {
-    "@types/express": "4.17.12",
+    "@types/express": "4.17.13",
     "@types/jest": "26.0.23",
     "@types/node": "14.17.4",
     "@types/node-fetch": "^2.5.10",
